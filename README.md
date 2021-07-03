@@ -21,7 +21,9 @@
 * 飼い主同士での情報共有。
 
 ## 設計書
-<...>
+### ER図
+[animalSNS.pdf](https://github.com/tsukasatakahashi0614/Species/files/6758150/animalSNS.pdf)
+
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1z9vQ7HK9a2HL1457KAowXy19GJpNZTz3h44Z7a2CwZI/edit?usp=sharing
