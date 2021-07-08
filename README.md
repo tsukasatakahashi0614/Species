@@ -22,10 +22,13 @@
 
 ## 設計書
 ### ER図
-[animalSNS.pdf](https://github.com/tsukasatakahashi0614/Species/files/6758150/animalSNS.pdf)
+https://drive.google.com/file/d/1VM87OFtXqI1uOZiIgSrIVMV3IEPDPwLu/view?usp=sharing
 
 ### テーブル定義書
 https://docs.google.com/spreadsheets/d/1iVHqauopDPuxcxr7lAMTEkFSZRj5Kl2tLYHlxrhAc1Q/edit?usp=sharinghttps://docs.google.com/spreadsheets/d/1iVHqauopDPuxcxr7lAMTEkFSZRj5Kl2tLYHlxrhAc1Q/edit?usp=sharing
+
+### アプリケーション詳細設計
+https://drive.google.com/file/d/14ln796z6a149k_zbQ6Zsjdup0jdGf44y/view?usp=sharing
 
 
 ## チャレンジ要素一覧
